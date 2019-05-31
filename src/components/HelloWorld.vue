@@ -76,6 +76,7 @@
         >
       </li>
     </ul>
+    <button @click="listeners.click">CLICK</button>
   </div>
 </template>
 
